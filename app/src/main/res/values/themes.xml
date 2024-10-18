@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tabslayout" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">@font/font_family</item>
+    </style>
+
+
+    <!--  Base application theme with ActionBar  -->
+<!--    <style name="Base.Theme.Tabslayout.WithActionBar" parent="Theme.Material3.DayNight">-->
+<!--        &lt;!&ndash;  Customize your light thme here, similar to the theme without action bar.  &ndash;&gt;-->
+<!--        &lt;!&ndash;  <item name="colorPrimary">@color/my_light_primary  &ndash;&gt;-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash;  Themes that can be applied to the apliaction or spesific activities  &ndash;&gt;-->
+<!--    <style name="Theme.Tabslayout" parent="Base.Theme.Tabslayout"/>-->
+<!--    <style name="Theme.Tabslayout.WithActionBar" parent="Base.Theme.Tabslayout.WithActionBar"/>-->
+
+
+</resources>

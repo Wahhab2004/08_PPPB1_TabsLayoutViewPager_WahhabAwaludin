@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tabslayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tabHome">REGISTER</string>
+    <string name="tabQuiz">LOGIN</string>
+    <string name="tabMateri">Hello Materi, menyenangkan. Tapi..</string>
+</resources>
